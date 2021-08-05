@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Chandan</h1>
-<h3 align="center">Full stack web-developer</h3>
-<h3 align="center">Computer Science Engineering</h3>
+<h3 align="center">Computer Science Engineer</h3>
+<h5 align="center">Full stack web-developer</h5>
+
 
 - 📫 How to reach me **chandan_cherukuri@srmap.edu.in**
 - - 📫 How to reach me **chandanvja@gmail.com**
