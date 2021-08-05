@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Chandan</h1>
 <h3 align="center">Computer Science Engineer</h3>
-<h4 align="center">Cyber Security Analyst</h4>
 <h4 align="center">Full stack web-developer</h4>
+<h4 align="center">Cyber Security Analyst</h4>
+
 
 
 - 📫 How to reach me **chandan_cherukuri@srmap.edu.in**
