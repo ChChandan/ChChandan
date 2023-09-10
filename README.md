@@ -9,7 +9,7 @@ I am a Full-Stack web developer graduated with a degree in Computer Science Engi
 ![](https://github-readme-stats.vercel.app/api?username=ChChandan&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChChandan&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChChandan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChChandan&layout=donut-vertical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChChandan&layout=donut-vertical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
